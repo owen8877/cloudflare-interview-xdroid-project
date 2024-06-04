@@ -1,0 +1,6 @@
+name = "xdroid-project"
+type = "javascript"
+account_id = "ded75aa2d1083e236037ef9b627c417c"
+workers_dev = true
+route = ""
+zone_id = ""
